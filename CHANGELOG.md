@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.45.2] - 2026-09-27
+### Changed
+- release: update manifest
+
 ## [0.45.1] - 2026-09-27
 ### Changed
 - chore: audit and prune dead code
