@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: trixtweaker
+Version: 0.47.0
+Summary: TrixTweaker - otimizador geral do Windows (PT-BR/EN)
+Author: TrixTweaker
+License: MIT
+Keywords: windows,optimizer,tweaker,gaming
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3
+Classifier: Environment :: Console
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# trixtweaker
+Otimizador geral

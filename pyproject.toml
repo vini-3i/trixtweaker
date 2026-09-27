@@ -1,0 +1,27 @@
+[project]
+name = "trixtweaker"
+version = "0.47.0"
+description = "TrixTweaker - otimizador geral do Windows (PT-BR/EN)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "TrixTweaker" }]
+keywords = ["windows", "optimizer", "tweaker", "gaming"]
+classifiers = [
+  "Operating System :: Microsoft :: Windows",
+  "Programming Language :: Python :: 3",
+  "Environment :: Console",
+]
+
+[project.scripts]
+trixtweaker = "trixtweaker.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

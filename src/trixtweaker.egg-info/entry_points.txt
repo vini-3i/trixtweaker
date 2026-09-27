@@ -1,0 +1,2 @@
+[console_scripts]
+trixtweaker = trixtweaker.cli:main
