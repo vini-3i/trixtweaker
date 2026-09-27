@@ -1,0 +1,4 @@
+0.43.0
+https://github.com/vini-3i/trixtweaker/releases/download/v0.43.0/TrixTweaker.exe
+sha256:
+notas: versao inicial
